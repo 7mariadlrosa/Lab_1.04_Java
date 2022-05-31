@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[]args){
-        difference();
-        smallest();
-        resolution();
+        difference(); //No sé como solucionar este fallo
+        smallest(); //No sé como solucionar este fallo
+        resolution(); //No sé como solucionar este fallo
     }
 
     //METHOD 1
